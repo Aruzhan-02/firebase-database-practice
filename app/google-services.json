@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988850240145",
+    "project_id": "practice-af75b",
+    "storage_bucket": "practice-af75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988850240145:android:a67bb619e6143daac51d30",
+        "android_client_info": {
+          "package_name": "com.example.login_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988850240145-o06s3cibb44shr6h1qgvfouvkunc91a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZGsCge7pk2hwOvOCu-cQZcz7mS9UsT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988850240145-o06s3cibb44shr6h1qgvfouvkunc91a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
